@@ -1,4 +1,4 @@
-# MacOS-Clone-using-GO-Lang
+# MacOS-Clone-using-GO-Lang and Fyne
 This project is a clone of MacOS. It has MacOS like UI and has various applications like Calculator, WeatherApp, DiceGame, Gallery, QRCodeMaker, AudioPlayer & many more.
 
 Visit for Quick Go Through ==> https://www.linkedin.com/feed/update/urn:li:activity:6859192888723607552/
