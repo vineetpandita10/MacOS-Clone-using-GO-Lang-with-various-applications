@@ -5,4 +5,4 @@ Visit for Quick Go Through ==> https://www.linkedin.com/feed/update/urn:li:activ
 
 Visit for full code explanation ==> https://drive.google.com/file/d/1_QkJ1KLgUYGMtPEk1nVG8x-nbj-6ph_M/view?usp=sharing
 
-Winner of GoLang hackathon organized by Pepcoding Education Private Limited and won a cash prize of 2 Thousand rupees.
+One of the Winners(Top3) of GoFyne Hackathon 2021 organized by Pepcoding Education Private Limited and won a cash prize of 2 Thousand rupees.
