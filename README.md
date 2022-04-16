@@ -1,2 +1,2 @@
 # MacOS-Clone-using-GO-Lang
-This clone consists of MacOS like UI. And has various applications like Calculator, WeatherApp, DiceGame, Gallery &amp; QR CodeScanner.
+This project is a clone of MacOS. It has MacOS like UI and has various applications like Calculator, WeatherApp, DiceGame, Gallery, QRCodeMaker & more.
